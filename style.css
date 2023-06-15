@@ -1,0 +1,29 @@
+h1 {
+    color: blue;
+    font-size: 40px;
+}
+
+h2 {
+    color: green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3 {
+    color: purple;
+}
+
+/*Para asignar a varios elementos a la vez*/
+p, ul, ol {
+    color: indigo;
+    font-size: 20px;
+}
+
+/*Selector universal*/
+/* * {
+    color: indigo;
+}*/
+
+/*Agregar estilos a una clase. El punto al principio es IMPORTANTE*/
+/*.listaDeArdillas{
+    color: chocolate;
+}*/
